@@ -98,7 +98,7 @@ public class ThreadPoolDemo {
         WeixinUserInfo userInfo = new WeixinUserInfo();
         userInfo.setCity("上海");
         userInfo.setCountry("上海");
-        userInfo.setHeadimgurl("www.tuhu.cn");
+        userInfo.setHeadimgurl("www.xxxx.cn");
         userInfo.setNickname("昵称");
         userInfo.setOpenid("openid");
         userInfo.setProvince("上海");
